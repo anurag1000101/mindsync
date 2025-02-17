@@ -22,4 +22,10 @@ Looking forward, our future work aims to gather larger-scale EEG-text datasets a
 
 Despite its advancements, MindSync's accuracy in real-life scenarios still falls short compared to traditional language translations. Additionally, our experiments are limited to publicly available neural reading data, which may not fully represent "silent speech" and direct thought translation.
 
+## Contributors
+
+Yash Sharma
+Anurag Maurya
+Avni Mittal
+
 ---
